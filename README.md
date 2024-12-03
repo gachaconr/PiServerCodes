@@ -1,3 +1,5 @@
+Some of the codes (client.c and server.c) are developed and found in the web but keeping them here to easy access
+
 Several Codes for data transmission, mainly using RPi as a server
 
 ccs811_i2c.c - control CCS811 and BME280
