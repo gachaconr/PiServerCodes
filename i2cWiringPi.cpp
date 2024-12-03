@@ -1,3 +1,4 @@
+//THIS CODE WAS NOT DEVELOPED BY ME, ADDED IT TO HAVE IT ACCESSIBLE FOR LATER PROJECTS
 #include <iostream>
 #include <errno.h>
 #include <wiringPiI2C.h>
